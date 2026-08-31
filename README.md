@@ -1,3 +1,9 @@
+> 📌 **Educational Practice Project**
+> This repository is a practice project created for learning and demonstrating Git & GitHub workflows (version control, branching, and pull requests).
+
+# LogisticShippingRates
+
+
 Please consider the below factors while contributing
 
 Code Style:
